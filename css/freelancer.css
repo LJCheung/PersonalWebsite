@@ -6218,6 +6218,10 @@ button.bg-primary:focus {
   background-color: #129ba8 !important;
 }
 
+.bg-tertiary {
+  background-color: #10b7bb !important;
+}
+
 a.bg-secondary:hover, a.bg-secondary:focus,
 button.bg-secondary:hover,
 button.bg-secondary:focus {
@@ -9364,7 +9368,7 @@ button.bg-dark:focus {
 }
 
 .text-yellow {
-  color: #eddea4 !important;
+  color: #f9f7f3 !important;
 }
 
 .text-primary {
@@ -9688,8 +9692,7 @@ a.text-dark:hover, a.text-dark:focus {
     margin-top: 0;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
-    color: #fff;
-    background: #b1dee0;
+    color: #b1dee0;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
     color: #fff;
