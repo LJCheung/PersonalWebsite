@@ -5940,6 +5940,10 @@ a.close.disabled {
   overflow: hidden;
 }
 
+.carousel-inner img {
+  margin: auto;
+}
+
 .carousel-inner::after {
   display: block;
   clear: both;
